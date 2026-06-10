@@ -6,7 +6,7 @@ describes its oscillation.
 - If a = 0, bifurcation point between stability and sustained oscillation.  
 
 The main aim of our project was to generate a virtual brain that emulates the altered connectivity of schizofrenic patients visual areas. In particular we want to 
-know if the visual areas of people with schizophrenia tend to be noisier than healthy control. 
+investigate wether the visual areas of people with schizophrenia tend to be noisier than healthy control. 
 In order to achieve this aim we: 
 1) 
 
